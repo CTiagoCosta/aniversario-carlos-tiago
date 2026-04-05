@@ -14,10 +14,10 @@ export default function Amigos() {
 
         <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-3xl p-8 md:p-12 mb-10">
           <p className="text-white/80 text-lg md:text-xl leading-relaxed mb-6">
-            Nesses 39 anos de caminhada, a vida me presenteou com pessoas incríveis — algumas desde os tempos de Belém, outras que encontrei ao longo do caminho em Campo Grande, e muitas que a vida foi colocando no meu percurso de formas que nunca esperava.
+            Nesses 39 anos de caminhada, a vida me presenteou com pessoas incríveis. Algumas desde os tempos de Belém, outras que encontrei ao longo do caminho em Campo Grande, e muitas que a vida foi colocando no meu percurso de formas que nunca esperava.
           </p>
           <p className="text-white/80 text-lg md:text-xl leading-relaxed mb-6">
-            Cada um de vocês deixou uma marca. Nas risadas, nas conversas, nos momentos difíceis e nos mais felizes. Amizade verdadeira não precisa de distância nem de tempo — ela simplesmente existe.
+            Cada um de vocês deixou uma marca. Nas risadas, nas conversas, nos momentos difíceis e nos mais felizes. Amizade verdadeira não precisa de distância nem de tempo, ela simplesmente existe.
           </p>
           <p className="text-white/90 text-xl md:text-2xl font-semibold leading-relaxed">
             Obrigado por fazer parte da minha história. 💜

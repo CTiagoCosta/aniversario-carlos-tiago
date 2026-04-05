@@ -46,7 +46,7 @@ const gifts = [
     id: 8,
     emoji: '🤖',
     name: 'Assinatura Claude',
-    description: 'Assinatura do assistente de IA favorito do dev — Claude Pro.',
+    description: 'Assinatura do assistente de IA favorito do dev, o Claude Pro.',
     value: 50,
     tag: 'Setup Dev',
   },
@@ -137,7 +137,7 @@ export default function Presentes() {
         </div>
 
         <p className="text-center text-white/30 text-sm mt-10">
-          Ao clicar em "PIX" você verá a chave para transferência — simples assim!
+          Ao clicar em "PIX" você verá a chave para transferência, simples assim!
         </p>
       </div>
 

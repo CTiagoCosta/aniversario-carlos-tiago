@@ -62,7 +62,7 @@ export default function ModalPix({ present, onClose }) {
             level="M"
           />
           <p className="text-[#1a0533]/50 text-xs mt-3 font-medium">
-            {present.value ? `R$ ${present.value} — PIX` : 'PIX — valor livre'}
+            {present.value ? `R$ ${present.value} via PIX` : 'PIX valor livre'}
           </p>
         </div>
 
@@ -101,9 +101,15 @@ export default function ModalPix({ present, onClose }) {
           )}
         </button>
 
-        <p className="text-center text-white/30 text-xs">
+        <p className="text-center text-white/30 text-xs mb-4">
           Escaneie o QR Code ou copie o código no seu app bancário
         </p>
+
+        <div className="bg-purple-900/20 border border-purple-700/30 rounded-2xl p-4 text-center">
+          <p className="text-white/60 text-xs leading-relaxed">
+            💜 Esta lista é só uma forma de facilitar. Se você já comprou um presente, quer trazer outra coisa ou simplesmente aparecer, é <span className="text-purple-300 font-semibold">muito bem-vindo</span> do mesmo jeito. O que importa é sua presença! 🎉
+          </p>
+        </div>
       </div>
     </div>
   )
