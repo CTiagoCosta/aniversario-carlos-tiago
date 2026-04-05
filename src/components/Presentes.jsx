@@ -97,8 +97,8 @@ export default function Presentes() {
             🎁 Lista de Presentes
           </h2>
           <p className="text-white/50 mt-4 max-w-xl mx-auto">
-            Sua presença já é o maior presente! Mas se quiser contribuir, aqui vão algumas sugestões.
-            Qualquer valor é recebido com muito carinho. 💜
+            O mais importante é a sua presença, de verdade! Esta lista é só pra facilitar quem não sabe o que dar.
+            Se você me conhece e já sabe o que trazer, pode vir com o que quiser, vou ficar muito feliz. 💜
           </p>
         </div>
 
